@@ -9,6 +9,10 @@ var symbols = "!#$%&\()*+,-./:;<=>?@^[\\]^_`{|}~";
 var symbolsArray = symbols.split("");
 
 var allCharsArry = [];
+var password = ""; 
+  
+var generatePassword =function(){
+  var allCharsArry = [];
   var password = ""; 
   
   var TotLength = prompt("How many characters would you like your password to be? Choose betwhwn 8 up to 128");
@@ -49,7 +53,8 @@ var allCharsArry = [];
       }
 
     }
-
+  return password;
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
