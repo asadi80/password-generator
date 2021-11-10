@@ -1,4 +1,12 @@
 // Assignment code here
+var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var upperCaseArray = upperCase.split("");
+var lowerCase = "abcdefghijklmnopqrstuvwxyz";
+var lowerCaseArray = lowerCase.split("");
+var numbers = "0123456789";
+var numbersArray = numbers.split("");
+var symbols = "!#$%&\()*+,-./:;<=>?@^[\\]^_`{|}~";
+var symbolsArray = symbols.split("");
 
 
 // Get references to the #generate element
