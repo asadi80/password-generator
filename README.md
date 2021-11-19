@@ -5,7 +5,11 @@ This project will generate a strong password for you. also, it gives you some op
 ## Prerequisites
 To install this application, you will need a text editor. I recommend Visual Studio Code.
 
-![alt text](https://github.com/asadi80.github.io/password-generator/blob/main/img.png?raw=true)
+
+
+
+![img](https://user-images.githubusercontent.com/89751266/142687067-37b98677-199b-4433-88f9-5cb44ae2942a.png)
+
 
 ## You can reach me on
 ---
