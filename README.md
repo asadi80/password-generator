@@ -7,8 +7,16 @@ To install this application, you will need a text editor. I recommend Visual Stu
 
 
 
+### Features
 
 ![img](https://user-images.githubusercontent.com/89751266/142687067-37b98677-199b-4433-88f9-5cb44ae2942a.png)
+
+#### ##Built With
+##Built With
+HTML, CSS and JAVASCRIPT.
+
+## Demo
+https://user-images.githubusercontent.com/89751266/142688113-344ba659-31fc-4006-955a-3dfd0d8094bd.mp4
 
 
 ## You can reach me on
